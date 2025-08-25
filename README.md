@@ -55,6 +55,7 @@ A clean, modern, and responsive front-end for an e-commerce website, built with 
 E-Commerace/
 ├── Assets/
 │   └── warehouse.jpg
+|   └── ...
 ├── CSS/
 │   └── stylesheet.css
 ├── contact.html

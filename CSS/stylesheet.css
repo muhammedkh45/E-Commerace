@@ -82,7 +82,7 @@ header nav a.active {
 
    ========================= */
 .home-content {
-  background: url("Assets/warehouse.jpg")
+  background: url("../Assets/warehouse.jpg")
     center/cover no-repeat;
   min-height: 70vh;
   display: flex;
